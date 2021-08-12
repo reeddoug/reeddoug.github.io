@@ -1,15 +1,15 @@
 ## Welcome to Pages
 
-Graduate student in Finance
+Graduate Student in Finance
 
 ## Curriculum Vitae
 
 
 ## Research Interests
- Asset Pricing | Empirical Finance | Interpretable Machine Learning
- --------------|-------------------|-------------------------------
+ |Asset Pricing | Empirical Finance | Interpretable Machine Learning|
+ |--------------|-------------------|-------------------------------|
 
-My primary interest is empirical asset pricing. However, I am interested in exploring _interpretable_ machine learning algorithms that provide economic interpretation, not black-box inferences.
+My primary research interest is empirical asset pricing. Currently, I am focused on the cross-sectional variation of price-ratios and returns.
 
 
 ## Research
