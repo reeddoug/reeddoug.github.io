@@ -31,8 +31,16 @@ My primary research interest is empirical asset pricing. Currently, I am focused
 
 ### From The Cross-Sectional Variation of Stock Prices
 The cross-section appears to be a natural place to look for variation in price-ratios. When I decompose the variation in price-ratios (specifically, Price-to-Net Payouts (P/D) and Price-to-Earnings (P/E)), I find that approximately 96% of the total variation lies in the Fama-MacBeth style cross-section.
-![price_decomp_anova_table](price_decomp_anova_table.png)
 
+|  | P/D | P/E |
+|:--------|:-------:|--------:|
+| TS Mean of XS Var   | 96%   | 94%   |
+| TS Var of XS Mean   | 4%   | 6%   |
+|----
+| XS Mean of TS Var   | 64%   | 66%   |
+| XS Var of TS Mean   | 37%   | 34%   |
+
+{: rules="groups"}
 
 ### Contact
 first.last at marshall.usc.edu
