@@ -26,21 +26,5 @@ My primary research interest is empirical asset pricing. Currently, I am focused
 [The Cross-Sectional Variation of Stock Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410)
 > In this paper, I decompose prices over a set of 21 variables across seven categories. I test a firm-specific version of the Campbell and Shiller (1988b) model against these categories and show expected returns and change in cash-flows explain 5% or less of modeled price variation while an often-ignored time-series constant explains over 70%. Approximately 50% to 70% of modeled cross-sectional variation is explained by efficient market variables, with the remainder explained by market frictions. I find institutional ownership and share repurchases show a significant ability in the cross-section to explain next-period prices, while transaction costs and some traditional market risk-factors fail to translate well to a price setting.
 
-
-## Some Research Highlights
-
-### From The Cross-Sectional Variation of Stock Prices
-The cross-section appears to be a natural place to look for variation in price-ratios. When I decompose the variation in price-ratios (specifically, Price-to-Net Payouts (P/D) and Price-to-Earnings (P/E)), I find that approximately 96% of the total variation lies in the Fama-MacBeth style cross-section.
-
-|  | P/D | P/E |
-|:--------|:-------:|--------:|
-| TS Mean of XS Var   | 96%   | 94%   |
-| TS Var of XS Mean   | 4%   | 6%   |
-|----
-| XS Mean of TS Var   | 64%   | 66%   |
-| XS Var of TS Mean   | 37%   | 34%   |
-
-{: rules="groups"}
-
 ### Contact
 first.last at marshall.usc.edu
