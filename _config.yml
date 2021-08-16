@@ -1,4 +1,4 @@
-title:               Celeste
+title:               Reed
 url:                 https://reeddoug.github.io
 baseurl:             ""
 
@@ -19,9 +19,9 @@ sass:
   style:             :compressed
 
 author:
-  name:              Nico Elayda
-  url:               nicoelayda.github.io
-  email:             nico@elayda.com
+  name:              Reed Douglas
+  url:               reeddoug.github.io
+  email:             
 
 plugins:
   - jekyll-coffeescript
