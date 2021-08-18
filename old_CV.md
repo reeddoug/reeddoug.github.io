@@ -3,11 +3,20 @@
 I am a graduate student in Finance. I am interested in the empirical study of asset prices, financial risk, and investor return and dividend expectations.
 
 ## Curriculum Vitae
-: 2010 - 2015
-> B.S. Mathematics, B.A. Business Economics
+<p style="text-align:left;">
+    University of Southern California, Marshall School of Business
+    <span style="float:right;">
+        2018-Present
+    </span>
+<br>Ph.D. Candidate in Finance and Business Economics</p>
 
-University of Southern California, Marshall School of Business: 2018 - Present
-> Ph.D. in Finance and Business Economics
+
+<p style="text-align:left;">
+    University of California, Los Angeles
+    <span style="float:right;">
+        2010-2015
+    </span>
+<br>B.S. Mathematics, B.A. Business Economics</p>
 
 ## Research Interests
 - Asset Pricing
