@@ -19,11 +19,11 @@ I am a graduate student in Finance interested in empirical asset prices, financi
 <br>B.S. Mathematics, B.A. Business Economics</p>
 
 ## Research Interests
-- Asset Pricing
-- Empirical Finance
+- Asset Pricing & Empirical Finance
+  - Cross-Sectional Price Variation, Price-Ratios, and Expectations
 - Interpretable Machine Learning
-
-My primary research interest is empirical asset pricing. Currently, I am focused on the cross-sectional variation of price-ratios and returns.
+  
+I am a graduate student in Finance at USC, and I am interested in empirical asset pricing, financial risk, and investor return and dividend expectations.
 
 
 ## Research
@@ -64,9 +64,6 @@ My primary research interest is empirical asset pricing. Currently, I am focused
         August - October 2020
     </span>
 </p>
-
-
-
 
 ## Presentations
 2020:

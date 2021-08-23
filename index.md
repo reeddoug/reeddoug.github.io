@@ -1,20 +1,13 @@
-## Finance Website
+# Reed
 
-I am a graduate student in Finance. I am interested in the empirical study of asset prices, financial risk, and investor return and dividend expectations.
+I am a graduate student in Finance at USC, and I am interested in empirical asset pricing, financial risk, and investor return and dividend expectations.
 
-## Curriculum Vitae
-: 2010 - 2015
-> B.S. Mathematics, B.A. Business Economics
-
-University of Southern California, Marshall School of Business: 2018 - Present
-> Ph.D. in Finance and Business Economics
+Click [here for my Curriculum Vitae](/CV/) page, or [here for my SSRN page.](https://ssrn.com/author=3941113)
 
 ## Research Interests
-- Asset Pricing
-- Empirical Finance
+- Asset Pricing & Empirical Finance
+  - Cross-Sectional Price Variation, Price-Ratios, and Expectations
 - Interpretable Machine Learning
-
-My primary research interest is empirical asset pricing. Currently, I am focused on the cross-sectional variation of price-ratios and returns.
 
 
 ## Research
