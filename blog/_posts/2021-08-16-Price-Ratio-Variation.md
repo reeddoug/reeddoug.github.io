@@ -4,7 +4,7 @@ In my most recent working paper, [The Cross-Sectional Variation of Stock Prices]
 
 
 |  | P/D | P/E |
-|:--------|:-------:|--------:|
+|:--------|:-------:|:--------:|
 | TS Mean of XS Var   | 96%   | 94%   |
 | TS Var of XS Mean   | 4%   | 6%   |
 
