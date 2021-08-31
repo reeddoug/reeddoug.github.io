@@ -1,13 +1,14 @@
 # Reed
 
-I am a graduate student in Finance at USC, and I am interested in empirical asset pricing, financial risk, and investor return and dividend expectations. I am currently working on projects that use the price-ratios of individual stocks as on the left-hand side dependent variable instead of returns. [My working paper examining prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410) finds that price-ratios of individual firms do not appear well defined by return and dividend expectations. Instead, a surprising amount of price-ratio variation between firms -- ratios which theory dictates should be fully explained by return and dividend expectations -- are actually explained by financial market frictions.
+I am a graduate student in Finance at USC interested in empirical asset pricing, financial risk, and investor return and dividend expectations. I am currently working on projects examining price-ratios of individual stocks instead of returns. [In a my most recent working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410), I find that price-ratios of individual firms do not appear well defined by return and dividend expectations, and instead a better explained by financial market frictions.
 
 Click [here for my Curriculum Vitae](/CV/) page, or [here for my SSRN page.](https://ssrn.com/author=3941113)
 
 ## Research Interests
-- Asset Pricing & Empirical Finance
-  - Cross-Sectional Price Variation, Price-Ratios, and Expectations
-- Interpretable Machine Learning
+- Empirical Asset Pricing
+  - Cross-Sectional Price Variation
+  - Price-Ratios
+  - Return and Dividend Expectations
 
 
 ## Research
