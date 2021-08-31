@@ -41,7 +41,7 @@ I am a graduate student in Finance at USC, and I am interested in empirical asse
     <span style="float:right;">
         May - August 2021 (Summer 2021)
     </span>
-<br>Primary Instructor</p>
+<br>Instructor</p>
 
 ## Teaching Assistance
 <p style="text-align:left;">
