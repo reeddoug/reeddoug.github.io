@@ -1,4 +1,4 @@
-# Reed
+# Reed Douglas
 
 I am a graduate student in Finance at USC interested in empirical asset pricing, financial risk, and investor return and dividend expectations. I am currently working on projects examining price-ratios of individual stocks instead of returns. [In a my most recent working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410), I find that price-ratios of individual firms do not appear well defined by return and dividend expectations, and instead a better explained by financial market frictions.
 
