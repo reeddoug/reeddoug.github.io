@@ -1,6 +1,6 @@
 # Reed Douglas
 
-I am a graduate student in Finance at USC interested in empirical asset pricing, financial risk, and investor return and dividend expectations. I am currently working on projects examining price-ratios of individual stocks instead of returns. [In a my most recent working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410), I find that price-ratios of individual firms do not appear well defined by return and dividend expectations, and instead are better explained by financial market frictions.
+I am a graduate student in Finance at USC interested in empirical asset pricing, financial risk, and investor return and dividend expectations. I am currently working on projects examining price-ratios of individual stocks instead of returns. [In my most recent working paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410), I find that price-ratios of individual firms do not appear well defined by return and dividend expectations, and instead are better explained by financial market frictions.
 
 Click [here for my Curriculum Vitae](/CV/) page, or [here for my SSRN page.](https://ssrn.com/author=3941113)
 
@@ -19,8 +19,6 @@ Click [here for my Curriculum Vitae](/CV/) page, or [here for my SSRN page.](htt
 
 [The Cross-Sectional Variation of Stock Prices](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3759410)
 > In this paper, I decompose prices over a set of 21 variables across seven categories. I test a firm-specific version of the Campbell and Shiller (1988b) model against these categories and show expected returns and change in cash-flows explain 5% or less of modeled price variation while an often-ignored time-series constant explains over 70%. Approximately 50% to 70% of modeled cross-sectional variation is explained by efficient market variables, with the remainder explained by market frictions. I find institutional ownership and share repurchases show a significant ability in the cross-section to explain next-period prices, while transaction costs and some traditional market risk-factors fail to translate well to a price setting.
-
-
 
 
 ### Contact

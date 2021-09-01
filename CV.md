@@ -1,7 +1,5 @@
 # Curriculum Vitae
 
-I am a graduate student in Finance interested in empirical asset prices, financial risk, and investor return and dividend expectations.
-
 ## Education
 <p style="text-align:left;">
     University of Southern California, Marshall School of Business
@@ -23,9 +21,6 @@ I am a graduate student in Finance interested in empirical asset prices, financi
   - Cross-Sectional Price Variation, Price-Ratios, and Expectations
 - Interpretable Machine Learning
   
-I am a graduate student in Finance at USC, and I am interested in empirical asset pricing, financial risk, and investor return and dividend expectations.
-
-
 ## Research
 [Linear-Betas in the Cross-Section of Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3522641)
 > This paper evaluates a specification for conditional beta models following Fama and French (2020). In this paper, I reject the Fama and French model that assumes characteristics are conditional betas in favor of a linear conditional beta model following Shanken (1990). Model-implied zero-beta rates are particularly sensitive to the specification, and the linear conditional beta model provides a significantly lower rate. Out-of-sample tests show that the Linear-Beta Model has a significantly lower bias and Clark and West (2007) adjusted MSPE, but it may come at the cost of a larger variance than the Fama and French model.
