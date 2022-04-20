@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on Reed Douglas</title>
+    <link>https://reed.gitlab.io/blog/</link>
+    <description>Recent content in Blogs on Reed Douglas</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 16 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="https://reed.gitlab.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Where do Price-Ratios Vary?</title>
+      <link>https://reed.gitlab.io/blog/blog1/</link>
+      <pubDate>Mon, 16 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>https://reed.gitlab.io/blog/blog1/</guid>
+      <description>Table of Contents Where do Price-Ratios Vary?   Where do Price-Ratios Vary? In my most recent working paper, The Cross-Sectional Variation of Stock Prices, I examine individual stock price-ratios instead of returns. Price-ratios are meaningfully different from returns, and tend to vary significantly more in the cross-section than they do in the time series. I decompose the variation in price ratios (specifically, Price-to-Net Payouts (P/D) and Price-to-Earnings (P/E)), and I find that between 94% and 96% of the total variation in price-ratios lies in the Fama-MacBeth style cross-section.</description>
+    </item>
+    
+  </channel>
+</rss>
