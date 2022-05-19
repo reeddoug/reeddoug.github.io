@@ -1,34 +1,54 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
   <url>
     <loc>https://reed.gitlab.io/blog/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/tags/papers/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/tags/price-ratios/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/tags/prices/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/tags/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/blog/blog1/</loc>
     <lastmod>2021-08-16T00:00:00+00:00</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/news/</loc>
     <lastmod>2020-11-20T17:51:47+03:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/about/</loc>
     <lastmod>2020-10-20T17:51:47+03:30</lastmod>
-  </url><url>
+  </url>
+  
+  <url>
     <loc>https://reed.gitlab.io/categories/</loc>
   </url>
+  
 </urlset>
